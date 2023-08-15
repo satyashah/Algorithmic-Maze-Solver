@@ -14,8 +14,6 @@ At its core, the project involves designing a graphical user interface (GUI) for
 
 4. **BFS Algorithm**: Implement the Breadth-First Search algorithm to navigate the maze and find the most efficient path.
 
-5. **Graphical User Interface**: Create an interactive GUI to visualize the maze, the traversal process, and the final paths.
-
 ## Skills Showcased
 
 ### 1. **Problem Solving**
@@ -34,11 +32,7 @@ Efficient data structures are essential for successful maze traversal. Stacks an
 
 Creating an organized and modular codebase is critical for projects of any scale. By adhering to object-oriented principles, the project showcases the ability to design classes and interfaces that encapsulate the various components of the maze, algorithms, and GUI.
 
-### 5. **Graphical User Interface (GUI) Development**
-
-Developing a user-friendly GUI requires a blend of design aesthetics and technical know-how. Through this project, GUI design skills are showcased in creating an interface that displays the maze, the algorithm's progress, and the final solution. GUI libraries and event handling mechanisms are utilized to enhance the user experience.
-
-### 6. **Testing and Debugging**
+### 5. **Testing and Debugging**
 
 Complex projects often present challenges that necessitate thorough testing and debugging. This project offers an opportunity to demonstrate the ability to identify and rectify issues in both the algorithmic logic and the GUI functionality.
 
